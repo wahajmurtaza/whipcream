@@ -68,7 +68,7 @@ int main(){
 
 Prints
 
-<img src="assets/images/output-1.jpg" alt="out1">
+<img src="assets/images/output_1.jpg" alt="out1">
 
 Similarly, You can pass a format for the variable if the data-type is not the default-format,
 
@@ -82,7 +82,7 @@ wc(str, "%s");
 
 Prints
 
-<img src="assets/images/output-2.jpg" alt="out2">
+<img src="assets/images/output_2.jpg" alt="out2">
 
 Just give `wc()` a variable or expression and you're done. Easy.
 
@@ -130,7 +130,7 @@ void foo(){
 
 Prints
 
-<img src="assets/images/output-3.jpg" alt="out3">
+<img src="assets/images/output_3.jpg" alt="out3">
 
 Just call `wc()` and you're done. Simple.
 
@@ -159,7 +159,7 @@ int main(){
 
 Prints
 
-<img src="assets/images/output-4.jpg" alt="out4">
+<img src="assets/images/output_4.jpg" alt="out4">
 
 You might want to disable colours for this. (See configuration)
 
@@ -197,12 +197,12 @@ int main(){
 
 Prints
 
-<img src="assets/images/output-5.jpg" alt="out5">
+<img src="assets/images/output_5.jpg" alt="out5">
 
 
 **DISABLING OUTPUT PRINTS**
 
-<img src="assets/images/output-6.jpg" alt="out6">
+<img src="assets/images/output_6.jpg" alt="out6">
 
 
 ### CUSTOM DEBUG EXTERNAL FUNCTION
@@ -233,7 +233,7 @@ int main(){
 
 Prints
 
-<img src="assets/images/output-4.jpg" alt="out4a">
+<img src="assets/images/output_4.jpg" alt="out4a">
 
 You might want to disable colours for this.
 
@@ -268,7 +268,7 @@ int main(){
 
 prints
 
-<img src="assets/images/output-7.jpg" alt="out7">
+<img src="assets/images/output_7.jpg" alt="out7">
 
 
 ### OUTHER CONFIGURATIONS
