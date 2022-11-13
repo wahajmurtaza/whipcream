@@ -275,10 +275,15 @@ prints
 These changes can be made in `whipcream.h`
 
 `_FILE_COLOR` : The color for printing file name (default cyan)
+
 `_VAR_COLOR` : The color for printing variable name (default yellow)
+
 `_VALUE_COLOR` : The color for printing variable value (default green)
+
 `CUSTOM_BUFFER_SIZE` : Buffer Size to Print Message (when used custom print function)  (default 300)
+
 `_FILE_NAME_BUFF_SIZE` : Max string size for printing the file name  (default 30)
+
 `_VAR_NAME_BUFF_SIZE` : Max string size for printing the variable name (default 20)
 
 
